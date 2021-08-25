@@ -1,4 +1,4 @@
-name: Test
+name: Test & Coverage
 
 on:
   push:
@@ -24,3 +24,4 @@ jobs:
         cache: 'npm'
     - run: npm i
     - run: npm test
+    - run: npm run cov:send
