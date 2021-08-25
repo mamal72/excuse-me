@@ -1,6 +1,6 @@
 {
   "name": "excuse-me",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple CLI made on top of developerexcuses.com to provide you an excuse!",
   "main": "build/main/index.js",
   "bin": "./build/main/index.js",
