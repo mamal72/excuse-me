@@ -1,4 +1,7 @@
+![Test & Coverage](https://github.com/mamal72/excuse-me/actions/workflows/node.js.yml/badge.svg)
+[![codecov](https://codecov.io/gh/mamal72/excuse-me/branch/main/graph/badge.svg?token=MI3RSMJFOU)](https://codecov.io/gh/mamal72/excuse-me)
 # 🤦‍♂️ excuse-me
+
 
 A simple CLI made on top of [developerexcuses.com](http://developerexcuses.com) to provide you an excuse!
 
