@@ -1,4 +1,4 @@
-![Test & Coverage](https://github.com/mamal72/excuse-me/actions/workflows/node.js.yml/badge.svg)
+[![Test & Coverage](https://github.com/mamal72/excuse-me/actions/workflows/node.js.yml/badge.svg)](https://github.com/mamal72/excuse-me/actions)
 [![codecov](https://codecov.io/gh/mamal72/excuse-me/branch/main/graph/badge.svg?token=MI3RSMJFOU)](https://codecov.io/gh/mamal72/excuse-me)
 # 🤦‍♂️ excuse-me
 
