@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import clipboardy from 'clipboardy'
 import { Command } from 'commander'
 
